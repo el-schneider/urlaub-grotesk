@@ -1,0 +1,10 @@
+/* Webfont: UrlaubGrotesk-Regular */@font-face {
+    font-family: 'UrlaubGrotesk';
+    src: url('Urlaub-Grotesk-Regular.woff') format('woff'), /* Modern Browsers */
+         url('Urlaub-Grotesk-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('Urlaub-Grotesk-Regular.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
