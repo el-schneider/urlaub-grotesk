@@ -13,6 +13,7 @@
 
 ## Planned Future Features
 
+* reworked quote-signes
 * kerning
 * reworked accented characters
 * small caps
