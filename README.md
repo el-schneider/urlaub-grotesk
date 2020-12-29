@@ -1,4 +1,4 @@
-# Urlaub Grotesk (v0.31)
+# Urlaub Grotesk (v0.32)
 
 * *Urlaub Grotesk* is a measure to deal with my personal longing for a holiday in the south of europe in the corona-summer of 2020
 * it is in a very much *work-in-progress* state
